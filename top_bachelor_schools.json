@@ -1,0 +1,22 @@
+[
+  {
+    "school_name": "National Open University",
+    "enrollment_bachelor": 790
+  },
+  {
+    "school_name": "National Dong Hwa University",
+    "enrollment_bachelor": 609
+  },
+  {
+    "school_name": "National Taitung University",
+    "enrollment_bachelor": 554
+  },
+  {
+    "school_name": "National Kaohsiung Normal University",
+    "enrollment_bachelor": 478
+  },
+  {
+    "school_name": "Mei He University of Science and Technology",
+    "enrollment_bachelor": 448
+  }
+]

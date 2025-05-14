@@ -1,0 +1,631 @@
+[
+  {
+    "school_name": "Tatung Institute of Technology",
+    "grad_enroll_ratio": 1.3333
+  },
+  {
+    "school_name": "Oriental Institute of Technology",
+    "grad_enroll_ratio": 1.25
+  },
+  {
+    "school_name": "Huanqiu University of Science and Technology",
+    "grad_enroll_ratio": 1.1739
+  },
+  {
+    "school_name": "Baptist Theological Seminary in Taiwan",
+    "grad_enroll_ratio": 1
+  },
+  {
+    "school_name": "National Taipei University of Business Continuing Education College",
+    "grad_enroll_ratio": 0.9462
+  },
+  {
+    "school_name": "Hwa Hsia University",
+    "grad_enroll_ratio": 0.6667
+  },
+  {
+    "school_name": "Southern Presbyterian Theological Seminary",
+    "grad_enroll_ratio": 0.6667
+  },
+  {
+    "school_name": "St. John's University",
+    "grad_enroll_ratio": 0.5385
+  },
+  {
+    "school_name": "Hua Hsia University of Science and Technology",
+    "grad_enroll_ratio": 0.5
+  },
+  {
+    "school_name": "Far East University",
+    "grad_enroll_ratio": 0.4769
+  },
+  {
+    "school_name": "Yuanpei University of Medical Technology",
+    "grad_enroll_ratio": 0.4375
+  },
+  {
+    "school_name": "Tajen University",
+    "grad_enroll_ratio": 0.3912
+  },
+  {
+    "school_name": "Aletheia University",
+    "grad_enroll_ratio": 0.383
+  },
+  {
+    "school_name": "Dahan Institute of Technology",
+    "grad_enroll_ratio": 0.3811
+  },
+  {
+    "school_name": "Taipei Christian College",
+    "grad_enroll_ratio": 0.375
+  },
+  {
+    "school_name": "National Kaohsiung University of Science and Technology Continuing Education College",
+    "grad_enroll_ratio": 0.3333
+  },
+  {
+    "school_name": "Deyu Health Care College",
+    "grad_enroll_ratio": 0.3204
+  },
+  {
+    "school_name": "Chang Gung University of Science and Technology",
+    "grad_enroll_ratio": 0.3145
+  },
+  {
+    "school_name": "Wu Feng University of Technology",
+    "grad_enroll_ratio": 0.3043
+  },
+  {
+    "school_name": "National Kaohsiung University of Hospitality and Tourism",
+    "grad_enroll_ratio": 0.2967
+  },
+  {
+    "school_name": "Kaohsiung City University of Open Learning",
+    "grad_enroll_ratio": 0.2946
+  },
+  {
+    "school_name": "National Penghu University of Science and Technology",
+    "grad_enroll_ratio": 0.2941
+  },
+  {
+    "school_name": "Chung Hua University of Technology",
+    "grad_enroll_ratio": 0.2941
+  },
+  {
+    "school_name": "National Taichung University of Science and Technology Continuing Education College",
+    "grad_enroll_ratio": 0.2885
+  },
+  {
+    "school_name": "Chung Yu University of Science and Technology",
+    "grad_enroll_ratio": 0.278
+  },
+  {
+    "school_name": "Tatung University",
+    "grad_enroll_ratio": 0.2778
+  },
+  {
+    "school_name": "Nanya Institute of Technology",
+    "grad_enroll_ratio": 0.2778
+  },
+  {
+    "school_name": "Ming Dao University",
+    "grad_enroll_ratio": 0.2727
+  },
+  {
+    "school_name": "Jing Wen University of Science and Technology",
+    "grad_enroll_ratio": 0.2667
+  },
+  {
+    "school_name": "National Kaohsiung University",
+    "grad_enroll_ratio": 0.2642
+  },
+  {
+    "school_name": "Mei He University of Science and Technology",
+    "grad_enroll_ratio": 0.2614
+  },
+  {
+    "school_name": "ChEng Kung University",
+    "grad_enroll_ratio": 0.2609
+  },
+  {
+    "school_name": "Nankai University of Technology",
+    "grad_enroll_ratio": 0.2564
+  },
+  {
+    "school_name": "Min Shih University of Science and Technology",
+    "grad_enroll_ratio": 0.25
+  },
+  {
+    "school_name": "National Taiwan University of Science and Technology",
+    "grad_enroll_ratio": 0.2479
+  },
+  {
+    "school_name": "National Taipei University of Nursing and Health Sciences",
+    "grad_enroll_ratio": 0.2456
+  },
+  {
+    "school_name": "Kaohsiung University of Applied Sciences",
+    "grad_enroll_ratio": 0.2444
+  },
+  {
+    "school_name": "Cheng Shiu University",
+    "grad_enroll_ratio": 0.2429
+  },
+  {
+    "school_name": "Ming Chuan University",
+    "grad_enroll_ratio": 0.2308
+  },
+  {
+    "school_name": "Taipei Ocean University of Technology",
+    "grad_enroll_ratio": 0.2308
+  },
+  {
+    "school_name": "Hsing Wu University of Science and Technology",
+    "grad_enroll_ratio": 0.2294
+  },
+  {
+    "school_name": "Kainan University",
+    "grad_enroll_ratio": 0.2273
+  },
+  {
+    "school_name": "Geng Shin Health Care Management Institute",
+    "grad_enroll_ratio": 0.226
+  },
+  {
+    "school_name": "National Taiwan University of Science and Technology",
+    "grad_enroll_ratio": 0.2243
+  },
+  {
+    "school_name": "Chaoyang University of Technology",
+    "grad_enroll_ratio": 0.2222
+  },
+  {
+    "school_name": "National Taiwan University",
+    "grad_enroll_ratio": 0.2215
+  },
+  {
+    "school_name": "Hungkuang University of Technology",
+    "grad_enroll_ratio": 0.2206
+  },
+  {
+    "school_name": "National Chiayi University",
+    "grad_enroll_ratio": 0.2204
+  },
+  {
+    "school_name": "I-Shou University",
+    "grad_enroll_ratio": 0.2203
+  },
+  {
+    "school_name": "National Taipei University of Business",
+    "grad_enroll_ratio": 0.2195
+  },
+  {
+    "school_name": "Fu Ying University of Science and Technology",
+    "grad_enroll_ratio": 0.2191
+  },
+  {
+    "school_name": "National Kaohsiung University of Science and Technology",
+    "grad_enroll_ratio": 0.2182
+  },
+  {
+    "school_name": "Fo Guang University",
+    "grad_enroll_ratio": 0.2182
+  },
+  {
+    "school_name": "National Taichung University of Education",
+    "grad_enroll_ratio": 0.2181
+  },
+  {
+    "school_name": "Chung Shan Medical University",
+    "grad_enroll_ratio": 0.2174
+  },
+  {
+    "school_name": "Tzu Chi University",
+    "grad_enroll_ratio": 0.2143
+  },
+  {
+    "school_name": "Shih Chien University",
+    "grad_enroll_ratio": 0.2132
+  },
+  {
+    "school_name": "Saint Mary College of Nursing Management",
+    "grad_enroll_ratio": 0.2113
+  },
+  {
+    "school_name": "Tzu-Hui Nursing Management College",
+    "grad_enroll_ratio": 0.2102
+  },
+  {
+    "school_name": "Shih Hsin University",
+    "grad_enroll_ratio": 0.2083
+  },
+  {
+    "school_name": "Hsiao Ping University of Science and Technology",
+    "grad_enroll_ratio": 0.2063
+  },
+  {
+    "school_name": "Chien Hsin University of Science and Technology",
+    "grad_enroll_ratio": 0.2048
+  },
+  {
+    "school_name": "Hungkuang University",
+    "grad_enroll_ratio": 0.204
+  },
+  {
+    "school_name": "Yu Da University of Science and Technology",
+    "grad_enroll_ratio": 0.2039
+  },
+  {
+    "school_name": "National Tainan University",
+    "grad_enroll_ratio": 0.2024
+  },
+  {
+    "school_name": "National Taiwan University of Arts",
+    "grad_enroll_ratio": 0.2
+  },
+  {
+    "school_name": "Chung Hua University",
+    "grad_enroll_ratio": 0.2
+  },
+  {
+    "school_name": "Tzu Chi University of Science and Technology",
+    "grad_enroll_ratio": 0.1979
+  },
+  {
+    "school_name": "National Central University of Science and Technology",
+    "grad_enroll_ratio": 0.1974
+  },
+  {
+    "school_name": "National Kaohsiung University of Science and Technology",
+    "grad_enroll_ratio": 0.1962
+  },
+  {
+    "school_name": "National Taichung University of Science and Technology",
+    "grad_enroll_ratio": 0.1954
+  },
+  {
+    "school_name": "National Taipei University of Education",
+    "grad_enroll_ratio": 0.1951
+  },
+  {
+    "school_name": "National Chi Nan University",
+    "grad_enroll_ratio": 0.1941
+  },
+  {
+    "school_name": "Kang Ning University",
+    "grad_enroll_ratio": 0.193
+  },
+  {
+    "school_name": "Jende College of Nursing and Health Management",
+    "grad_enroll_ratio": 0.1902
+  },
+  {
+    "school_name": "National Chengchi University",
+    "grad_enroll_ratio": 0.1875
+  },
+  {
+    "school_name": "National Taitung Vocational College",
+    "grad_enroll_ratio": 0.1868
+  },
+  {
+    "school_name": "National Yang Ming Chiao Tung University",
+    "grad_enroll_ratio": 0.1852
+  },
+  {
+    "school_name": "National Central University",
+    "grad_enroll_ratio": 0.1852
+  },
+  {
+    "school_name": "National Tsing Hua University",
+    "grad_enroll_ratio": 0.1847
+  },
+  {
+    "school_name": "Chia Nan University of Pharmacy and Science",
+    "grad_enroll_ratio": 0.1844
+  },
+  {
+    "school_name": "Tainan University of Applied Science",
+    "grad_enroll_ratio": 0.1828
+  },
+  {
+    "school_name": "National Taiwan Normal University",
+    "grad_enroll_ratio": 0.1825
+  },
+  {
+    "school_name": "National Chung Cheng University",
+    "grad_enroll_ratio": 0.1818
+  },
+  {
+    "school_name": "Ming Chi University of Technology",
+    "grad_enroll_ratio": 0.1818
+  },
+  {
+    "school_name": "Kaohsiung Medical University",
+    "grad_enroll_ratio": 0.181
+  },
+  {
+    "school_name": "National Kinmen University",
+    "grad_enroll_ratio": 0.1791
+  },
+  {
+    "school_name": "National Taipei University of Technology",
+    "grad_enroll_ratio": 0.1786
+  },
+  {
+    "school_name": "Southern Taiwan University of Science and Technology",
+    "grad_enroll_ratio": 0.1768
+  },
+  {
+    "school_name": "Wannee University of Science and Technology",
+    "grad_enroll_ratio": 0.1745
+  },
+  {
+    "school_name": "National Open University",
+    "grad_enroll_ratio": 0.1743
+  },
+  {
+    "school_name": "Wenzao Ursuline University of Languages",
+    "grad_enroll_ratio": 0.1739
+  },
+  {
+    "school_name": "Taiwan Theological Research Institute",
+    "grad_enroll_ratio": 0.1739
+  },
+  {
+    "school_name": "Nanhua University",
+    "grad_enroll_ratio": 0.1724
+  },
+  {
+    "school_name": "Tamkang University",
+    "grad_enroll_ratio": 0.1711
+  },
+  {
+    "school_name": "National Dong Hwa University",
+    "grad_enroll_ratio": 0.1705
+  },
+  {
+    "school_name": "Shu-Te University",
+    "grad_enroll_ratio": 0.1697
+  },
+  {
+    "school_name": "National Taipei University of the Arts",
+    "grad_enroll_ratio": 0.1688
+  },
+  {
+    "school_name": "Taipei City University",
+    "grad_enroll_ratio": 0.1671
+  },
+  {
+    "school_name": "Fu Jen Catholic University",
+    "grad_enroll_ratio": 0.167
+  },
+  {
+    "school_name": "National Sun Yat-sen University",
+    "grad_enroll_ratio": 0.1667
+  },
+  {
+    "school_name": "National Yunlin University of Science and Technology",
+    "grad_enroll_ratio": 0.1652
+  },
+  {
+    "school_name": "Chih Lee University of Science and Technology",
+    "grad_enroll_ratio": 0.1646
+  },
+  {
+    "school_name": "Asia University",
+    "grad_enroll_ratio": 0.162
+  },
+  {
+    "school_name": "National Taitung University",
+    "grad_enroll_ratio": 0.1613
+  },
+  {
+    "school_name": "Lung Hwa University of Science and Technology",
+    "grad_enroll_ratio": 0.1597
+  },
+  {
+    "school_name": "National Cheng Kung University",
+    "grad_enroll_ratio": 0.1596
+  },
+  {
+    "school_name": "National Chung Hsing University",
+    "grad_enroll_ratio": 0.1585
+  },
+  {
+    "school_name": "Taipei Medical University",
+    "grad_enroll_ratio": 0.1579
+  },
+  {
+    "school_name": "Chiao Kwang University of Technology",
+    "grad_enroll_ratio": 0.1579
+  },
+  {
+    "school_name": "Taipei City University of Science and Technology",
+    "grad_enroll_ratio": 0.1564
+  },
+  {
+    "school_name": "National Taichung University of Education",
+    "grad_enroll_ratio": 0.155
+  },
+  {
+    "school_name": "National Pingtung University of Science and Technology",
+    "grad_enroll_ratio": 0.1538
+  },
+  {
+    "school_name": "National Taipei University",
+    "grad_enroll_ratio": 0.1529
+  },
+  {
+    "school_name": "Southeast University of Technology",
+    "grad_enroll_ratio": 0.1524
+  },
+  {
+    "school_name": "Chung Yuan Christian University",
+    "grad_enroll_ratio": 0.1523
+  },
+  {
+    "school_name": "National Ilan University",
+    "grad_enroll_ratio": 0.151
+  },
+  {
+    "school_name": "National Taiwan University of Sport",
+    "grad_enroll_ratio": 0.1488
+  },
+  {
+    "school_name": "Soochow University",
+    "grad_enroll_ratio": 0.1478
+  },
+  {
+    "school_name": "Chang Gung University",
+    "grad_enroll_ratio": 0.1458
+  },
+  {
+    "school_name": "Chung Hua University of Medical Technology",
+    "grad_enroll_ratio": 0.1449
+  },
+  {
+    "school_name": "Mackay Nursing College",
+    "grad_enroll_ratio": 0.1439
+  },
+  {
+    "school_name": "Chinese Culture University",
+    "grad_enroll_ratio": 0.1415
+  },
+  {
+    "school_name": "Hsing Sheng Medical Care Management School",
+    "grad_enroll_ratio": 0.1403
+  },
+  {
+    "school_name": "Shuren Medical Care Management School",
+    "grad_enroll_ratio": 0.1402
+  },
+  {
+    "school_name": "Chienkuo Technology University",
+    "grad_enroll_ratio": 0.1395
+  },
+  {
+    "school_name": "Providence University",
+    "grad_enroll_ratio": 0.1385
+  },
+  {
+    "school_name": "Tama Dean University of Financial Management",
+    "grad_enroll_ratio": 0.137
+  },
+  {
+    "school_name": "Ming Hsin University of Science and Technology",
+    "grad_enroll_ratio": 0.1333
+  },
+  {
+    "school_name": "Hsiuan Chuang University",
+    "grad_enroll_ratio": 0.1333
+  },
+  {
+    "school_name": "Min Hui Nursing Management College",
+    "grad_enroll_ratio": 0.129
+  },
+  {
+    "school_name": "Feng Chia University",
+    "grad_enroll_ratio": 0.125
+  },
+  {
+    "school_name": "National Formosa University",
+    "grad_enroll_ratio": 0.1159
+  },
+  {
+    "school_name": "Limin Institute of Technology",
+    "grad_enroll_ratio": 0.1132
+  },
+  {
+    "school_name": "National United University",
+    "grad_enroll_ratio": 0.113
+  },
+  {
+    "school_name": "Ling Tung University",
+    "grad_enroll_ratio": 0.1111
+  },
+  {
+    "school_name": "Tunghai University",
+    "grad_enroll_ratio": 0.1077
+  },
+  {
+    "school_name": "National Pingtung University",
+    "grad_enroll_ratio": 0.1074
+  },
+  {
+    "school_name": "Mackay Medical College",
+    "grad_enroll_ratio": 0.1071
+  },
+  {
+    "school_name": "Aydong University of Science and Technology",
+    "grad_enroll_ratio": 0.1061
+  },
+  {
+    "school_name": "National Taiwan Ocean University",
+    "grad_enroll_ratio": 0.1024
+  },
+  {
+    "school_name": "National Changhua University of Education",
+    "grad_enroll_ratio": 0.0994
+  },
+  {
+    "school_name": "Kun Shan University",
+    "grad_enroll_ratio": 0.0963
+  },
+  {
+    "school_name": "Da-Yeh University",
+    "grad_enroll_ratio": 0.0923
+  },
+  {
+    "school_name": "National Taiwan Sport University",
+    "grad_enroll_ratio": 0.0917
+  },
+  {
+    "school_name": "National Kaohsiung Normal University",
+    "grad_enroll_ratio": 0.0827
+  },
+  {
+    "school_name": "China Medical University",
+    "grad_enroll_ratio": 0.0823
+  },
+  {
+    "school_name": "Yuying Medical and Nursing Management School",
+    "grad_enroll_ratio": 0.0781
+  },
+  {
+    "school_name": "Chinatrust Commercial Bank Institute of Financial Management",
+    "grad_enroll_ratio": 0.0769
+  },
+  {
+    "school_name": "National Tainan University of the Arts",
+    "grad_enroll_ratio": 0.0556
+  },
+  {
+    "school_name": "National Tainan Nursing School",
+    "grad_enroll_ratio": 0.0467
+  },
+  {
+    "school_name": "Yuan Ze University",
+    "grad_enroll_ratio": 0.0448
+  },
+  {
+    "school_name": "Dharma Drum University",
+    "grad_enroll_ratio": 0
+  },
+  {
+    "school_name": "Chung Jen Medical Management School",
+    "grad_enroll_ratio": 0
+  },
+  {
+    "school_name": "Academy of Evangelical Theology",
+    "grad_enroll_ratio": 0
+  },
+  {
+    "school_name": "Taiwan Shoufu University"
+  },
+  {
+    "school_name": "Chung Chou University of Science and Technology"
+  },
+  {
+    "school_name": "He Chun Institute of Technology"
+  }
+]
